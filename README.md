@@ -54,7 +54,7 @@ engagement.
 -Monitoring and logging capabilities were utilized to identify and
 troubleshoot issues in the application.
 
-Dark and Barbie Mode:
+### Dark and Barbie Mode:
 -Implemented to change the theme on User preference
 
 
